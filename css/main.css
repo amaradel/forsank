@@ -4,4 +4,14 @@ body{
     direction: rtl;
     font-family: 'Cairo', sans-serif;
 }
-
+.navbar {
+    background-color: brown;
+    z-index: 9999;
+}
+.sec1{
+    width: auto;
+    height: 100vh;
+    background-image: url(../img/شركة\ فرسانك.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
